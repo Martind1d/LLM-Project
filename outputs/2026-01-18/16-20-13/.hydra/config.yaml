@@ -1,0 +1,72 @@
+sp_model_path: ./data/tokenizer/spm_en_sv_32k.model
+hf_name: opus100
+hf_config: en-sv
+src_lang: en
+tgt_lang: sv
+unk_id: 0
+bos_id: 1
+eos_id: 2
+pad_id: 3
+vocab_size: 32000
+max_len: 200
+batch_size: 64
+num_workers: 4
+epochs: 2
+lr: 0.0003
+label_smoothing: 0.1
+grad_clip: 1.0
+warmup_steps: 4000
+min_lr_ratio: 0.1
+amp: true
+d_model: 512
+nhead: 8
+enc_layers: 6
+dec_layers: 6
+ffn_dim: 2048
+dropout: 0.1
+save_dir: checkpoints/en-sv/
+log_dir: logs/en-sv/
+log_interval: 100
+save_interval: 1000
+test_questions:
+- Hur mår du?
+- Vad heter du?
+- Var bor du?
+- Hur gammal är du?
+- Vad gör du?
+- Vad gillar du att göra?
+- Har du några syskon?
+- Vad är din favoritmat?
+- Var kommer du ifrån?
+- Talar du engelska?
+- Vad jobbar du med?
+- Tycker du om kaffe?
+- Vad gör du idag?
+- När börjar jobbet?
+- Hur är vädret idag?
+- Vad gjorde du igår?
+- Vad ska du göra imorgon?
+- Gillar du att resa?
+- Vad är klockan?
+- Kan du hjälpa mig?
+english_test_questions:
+- How are you?
+- What is your name?
+- Where do you live?
+- How old are you?
+- What do you do?
+- What do you like to do?
+- Do you have any siblings?
+- What is your favorite food?
+- Where are you from?
+- Do you speak English?
+- What do you do for work?
+- Do you like coffee?
+- What are you doing today?
+- When does work start?
+- How is the weather today?
+- What did you do yesterday?
+- What will you do tomorrow?
+- Do you like to travel?
+- What time is it?
+- Can you help me?

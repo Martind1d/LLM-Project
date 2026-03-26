@@ -1,0 +1,51 @@
+2026-01-16 17:34:11,871 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-16 17:34:18,660 | INFO | Encoder model frozen.
+2026-01-16 17:37:49,202 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 17:37:49,283 | INFO | GPU available: True (cuda), used: True
+2026-01-16 17:37:49,284 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 17:37:49,285 | INFO | You are using a CUDA device ('NVIDIA L40S') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+2026-01-16 17:37:49,287 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 17:37:57,166 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 17:37:57,173 | INFO | GPU available: True (cuda), used: True
+2026-01-16 17:37:57,173 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 17:37:57,174 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 17:38:10,634 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-16 17:38:17,279 | INFO | Encoder model frozen.
+2026-01-16 17:41:12,904 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 17:41:12,972 | INFO | GPU available: True (cuda), used: True
+2026-01-16 17:41:12,973 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 17:41:12,976 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 17:41:19,930 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 17:41:19,937 | INFO | GPU available: True (cuda), used: True
+2026-01-16 17:41:19,937 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 17:41:19,938 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 17:41:33,137 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-16 17:41:39,929 | INFO | Encoder model frozen.
+2026-01-16 18:07:40,747 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 18:07:40,831 | INFO | GPU available: True (cuda), used: True
+2026-01-16 18:07:40,831 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 18:07:40,834 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 18:07:48,499 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 18:07:48,506 | INFO | GPU available: True (cuda), used: True
+2026-01-16 18:07:48,506 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 18:07:48,507 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 18:08:08,566 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-16 18:08:15,325 | INFO | Encoder model frozen.
+2026-01-16 18:52:22,205 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 18:52:22,243 | INFO | GPU available: True (cuda), used: True
+2026-01-16 18:52:22,243 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 18:52:22,246 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 18:52:29,253 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 18:52:29,260 | INFO | GPU available: True (cuda), used: True
+2026-01-16 18:52:29,260 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 18:52:29,261 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 18:52:39,408 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-16 18:52:46,243 | INFO | Encoder model frozen.
+2026-01-16 20:18:59,418 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 20:18:59,460 | INFO | GPU available: True (cuda), used: True
+2026-01-16 20:18:59,460 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 20:18:59,463 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-16 20:19:11,591 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-16 20:19:11,597 | INFO | GPU available: True (cuda), used: True
+2026-01-16 20:19:11,597 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-16 20:19:11,597 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]

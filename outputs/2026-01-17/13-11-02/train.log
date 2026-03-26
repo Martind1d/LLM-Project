@@ -1,0 +1,61 @@
+2026-01-17 13:11:14,166 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-17 13:11:21,687 | INFO | Encoder model frozen.
+2026-01-17 13:11:24,890 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:11:24,899 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:11:24,899 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:11:24,901 | INFO | You are using a CUDA device ('NVIDIA L40S') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+2026-01-17 13:11:24,902 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:11:25,172 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:11:26,580 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:11:26,606 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:11:26,606 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:11:26,609 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:11:26,864 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:11:35,523 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-17 13:11:40,781 | INFO | Encoder model frozen.
+2026-01-17 13:11:42,283 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:11:42,307 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:11:42,307 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:11:42,309 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:11:42,558 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:11:43,974 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:11:43,998 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:11:43,998 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:11:44,000 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:11:44,246 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:11:52,647 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-17 13:11:58,537 | INFO | Encoder model frozen.
+2026-01-17 13:12:08,377 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:12:08,425 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:12:08,425 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:12:08,431 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:12:08,787 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:12:10,542 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:12:10,553 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:12:10,553 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:12:10,554 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:12:10,848 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:12:26,217 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-17 13:12:31,962 | INFO | Encoder model frozen.
+2026-01-17 13:12:50,327 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:12:50,341 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:12:50,341 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:12:50,346 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:12:50,669 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:12:52,337 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:12:52,348 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:12:52,348 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:12:52,349 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:12:52,623 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:12:57,955 | INFO | Lightning automatically upgraded your loaded checkpoint from v1.8.3.post1 to v2.6.0. To apply the upgrade to your files permanently, run `python -m pytorch_lightning.utilities.upgrade_checkpoint ../../.cache/huggingface/hub/models--Unbabel--wmt22-comet-da/snapshots/2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt`
+2026-01-17 13:13:03,819 | INFO | Encoder model frozen.
+2026-01-17 13:13:23,285 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:13:23,361 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:13:23,361 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:13:23,369 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:13:23,979 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
+2026-01-17 13:13:26,179 | INFO | 💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+2026-01-17 13:13:26,190 | INFO | GPU available: True (cuda), used: True
+2026-01-17 13:13:26,190 | INFO | TPU available: False, using: 0 TPU cores
+2026-01-17 13:13:26,192 | INFO | LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+2026-01-17 13:13:26,525 | INFO | SLURM auto-requeueing enabled. Setting signal handlers.
