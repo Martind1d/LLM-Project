@@ -234,16 +234,6 @@ def main(cfg):
         pickle.dump(tencent_model_eval, tencent_model_filehandler)
 
 
-
-    print("\nLoading Baseline Model...")
-    baseline_model_en_sv , sp = load_model_for_inference(cfg, f"custom_model_data/en-sv-main.pt")
-    baseline_model_sv_en , sp = load_model_for_inference(cfg, f"custom_model_data/sv-en-main.pt")
-    custom_model_eval = run_evaluation((baseline_model_en_sv, baseline_model_sv_en) , sp, dataset, model_type='custom', cfg=cfg)
-    with open('eval/custom_model_eval', 'wb') as custom_model_filehandler:
-        pickle.dump(custom_model_eval, custom_model_filehandler)
-    
-    
-
     print("\nLoading Helsinki-NLP/opus-mt-en-sv")
     OPUS_en_sv_MODEL_ID = "Helsinki-NLP/opus-mt-en-sv"
     OPUS_sv_en_MODEL_ID = "Helsinki-NLP/opus-mt-sv-en"
